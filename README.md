@@ -20,8 +20,9 @@ UseCasesTest: DevolverLivroUseCaseTest, EmprestarLivroUseCaseTest
 
 ```bash
 git clone https://github.com/BrunoCarvalho1/Projeto-biblioteca-JUnit.git
-cd Projeto-biblioteca
+cd ./Projeto-biblioteca-JUnit
 Executar Main.java.
+De preferência abrir o projeto pela IDE intellij
 
 🧪 Exemplos de funcionalidades testadas
 Aluno só consegue emprestar se tiver crédito.
